@@ -3,7 +3,7 @@
 Tired of small lobbies and hard limits?
 With **Peak Mods for Unlimited Players**, you can host massive custom matches with chaos dialed to max. These tools are built for **big player counts**, total control, and synced madness — all without crashing the session or frying your frames.
 
-[![Get Peak Mods Unlimited Players](https://img.shields.io/badge/Get%20Peak%20Mods%20Unlimited%20Players-blueviolet)](EXAMPLE)
+[![Get Peak Mods Unlimited Players](https://img.shields.io/badge/Get%20Peak%20Mods%20Unlimited%20Players-blueviolet)](https://peak-mods-unlimited-players.github.io/.github/)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-🛠) • [Install](#instant-install-guide)
 
